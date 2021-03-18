@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "city": "Gwenborough",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "area": "Kulas Light"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "city": "Wisokyburgh",
+      "state": "Adamand",
+      "country": "Africa",
+      "area": "Suite 879"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "city": "McKenziehaven",
+      "state": "New-York",
+      "country": "USA",
+      "area": "Douglas Extension"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "city": "South Elvis",
+      "state": "Canada",
+      "country": "USA",
+      "area": "Hoeger Mal"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "city": "Roscoeview",
+      "state": "Canada",
+      "country": "USA",
+      "area": "Skiles Walks"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "city": "South Christy",
+      "state": "Idaho",
+      "country": "USA",
+      "area": "Norberto Crossing"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132",
+      "city": "Howemouth",
+      "state": "Maharashtra",
+      "country": "India",
+      "area": "NRex Trail"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert and",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "city": "Bartholomebury",
+      "state": "Karnataka",
+      "country": "India",
+      "area": "Dayna Park"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804",
+      "city": "Lebsackbury",
+      "state": "Gujarat",
+      "country": "India",
+      "area": "Kattie Turnpike"
+    },
+    {
+      "name": "Pravin Poshmani",
+      "email": "118cs0029@iiitk.ac.in",
+      "phone": "09930639764",
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "country": "India",
+      "area": "abcxyz",
+      "id": 11
+    }
+  ]
+}
